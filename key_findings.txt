@@ -1,0 +1,12 @@
+KEY FINDINGS
+============
+Rows after cleaning: 740
+Date range: 2019-05-31 to 2020-06-30
+Overall average unemployment rate: 11.79%
+Overall median unemployment rate: 8.35%
+Highest observed unemployment rate: 76.74%
+Pre-COVID average: 9.51%
+COVID-shock average: 17.77%
+COVID-shock minus pre-COVID: +8.26 percentage points
+Highest-average region: Tripura (28.35%)
+Lowest-average region: Meghalaya (4.80%)
